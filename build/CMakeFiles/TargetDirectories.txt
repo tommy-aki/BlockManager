@@ -1,0 +1,3 @@
+/mnt/c/Users/Tommy Lee Pon/OneDrive/Documentos/UNITEC ARCHIVOS/Estru Datos 2/20241112_Proyecto1eraEntrega_TommyPon/build/CMakeFiles/Block_Device.dir
+/mnt/c/Users/Tommy Lee Pon/OneDrive/Documentos/UNITEC ARCHIVOS/Estru Datos 2/20241112_Proyecto1eraEntrega_TommyPon/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Tommy Lee Pon/OneDrive/Documentos/UNITEC ARCHIVOS/Estru Datos 2/20241112_Proyecto1eraEntrega_TommyPon/build/CMakeFiles/rebuild_cache.dir
